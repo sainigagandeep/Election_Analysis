@@ -17,8 +17,11 @@ additional requests:-
 4. Google
 5. Class instructions and pratice codes
 
+
+
 # The analysis of the election show that:
 1. There were 369,711 total votes cast.
+
 2. The candidates  and their voting share:
 	- Charles Casper Stockham: 23.0% (85,213)
 	- Diana DeGette: 73.8% (272,892)
@@ -33,5 +36,8 @@ additional requests:-
 	  - Jefferson: 10.5% 
 	  - Denver: 82.8% 
 	  - Arapahoe: 6.7% 
+<img width="491" alt="Election_Analysis" src="https://user-images.githubusercontent.com/81769662/170645192-620fed6b-2f72-4569-81f8-e421f48be1bb.png">
 ## Election Audit Summary
-This script can be used for any future election audit given the csv file is formatted similarly as the one this script was created for. That is one way this code could be modified, to be able to control for the potential for information being formatted differently within the csv file.
+This script can be used for any future election given the csv file would have relevent data. We just have to replace/add the name of candidates and counties in  csv file. 
+
+

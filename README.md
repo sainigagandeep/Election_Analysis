@@ -7,7 +7,7 @@ The purpose of this project was to do election data audit for a State  election 
 4. Determine the winner of the election based on popular vote.
 additional requests:-
 5. Calculate the voter turnout for each county.
-6. Calculate the percentage of votes from each county our of the total count of votes.
+6. Calculate the percentage of votes from each county of the total count of votes.
 7. Determine the county with the highest voter turnout. 
 
 # Resources

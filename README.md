@@ -15,7 +15,7 @@ additional requests:-
 2. Git Bash
 3. Python 3.7.6
 4. Google
-5. Class instructions and pratice codes
+
 
 
 

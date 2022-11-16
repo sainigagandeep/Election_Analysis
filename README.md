@@ -38,7 +38,7 @@ additional requests:-
 	  - Arapahoe: 6.7% 
 <img width="491" alt="Election_Analysis" src="https://user-images.githubusercontent.com/81769662/170645192-620fed6b-2f72-4569-81f8-e421f48be1bb.png">
 ## Election Audit Summary
-This script can be used for any future election given the csv file would have relevent data. We just have to replace/add the name of candidates and counties in  csv file. 
+This script can be used for any future election given the csv file would have relevant data. We just have to replace/add the name of candidates and counties in  csv file. 
 
 
 contact me --ggnsaini08@gmail.com
